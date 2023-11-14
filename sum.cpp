@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout << 1;
+    cout << "Myname is this";
     return 0;
 }
