@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout << "Myname is this";
+    cout << 4*30;
     return 0;
 }
